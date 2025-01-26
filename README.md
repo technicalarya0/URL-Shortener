@@ -2,6 +2,10 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## Getting Started
 
+**Hello, I am Unmesh Arya. MERN developer and currently learning Next.js.**
+
+This is my Next.js Project
+
 First, run the development server:
 
 ```bash
